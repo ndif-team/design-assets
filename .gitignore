@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor/temp files
+*.swp
+*~
+Thumbs.db
+
+# Design app autosaves/backups
+*.fig.bak
+*.ai.bak
+*.afdesign~lock~
