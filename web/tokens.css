@@ -1,0 +1,37 @@
+/* NDIF brand tokens — from brand/GUIDELINES.md. */
+:root {
+  /* The 11-step brand gradient, always linear left-to-right. */
+  --ndif-gradient-1: #B875B1; /* fuchsia — left end */
+  --ndif-gradient-2: #AD7AB4;
+  --ndif-gradient-3: #A37EB7;
+  --ndif-gradient-4: #9883BB;
+  --ndif-gradient-5: #8E87BE;
+  --ndif-gradient-6: #838CC1; /* periwinkle — midpoint */
+  --ndif-gradient-7: #7891C4;
+  --ndif-gradient-8: #6E95C7;
+  --ndif-gradient-9: #639ACB;
+  --ndif-gradient-10: #599ECE;
+  --ndif-gradient-11: #4EA3D1; /* azure — right end */
+
+  /* Full gradient sweep for active/emphasized elements. */
+  --ndif-gradient: linear-gradient(
+    to right,
+    var(--ndif-gradient-1),
+    var(--ndif-gradient-6),
+    var(--ndif-gradient-11)
+  );
+
+  /* Grays. */
+  --ndif-slate: #66686E;  /* active props: tracks, nodes, frames, arrows, text */
+  --ndif-silver: #C8C9D2; /* passive props: rails, ticks, control backgrounds */
+
+  /* Typography. */
+  --ndif-font: 'Infra', system-ui, sans-serif;
+}
+
+/* Embedded brand SVGs scale to their wrapper's width. */
+.ndif-asset > svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}

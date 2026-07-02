@@ -1,0 +1,12 @@
+{
+  "name": "ndif-brand",
+  "version": "0.1.0",
+  "private": true,
+  "description": "NDIF brand assets as React components: logos, wordmarks, palette tokens, and the Infra typeface.",
+  "scripts": {
+    "generate": "node web/generate-svg-data.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  }
+}

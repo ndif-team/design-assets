@@ -1,0 +1,61 @@
+/* Infra — the NDIF brand typeface (brand/typography/). */
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraRegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraMedium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraMediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraSemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraSemiBoldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraBold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraBoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Infra';
+  src: url('../brand/typography/InfraExtraBoldItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}

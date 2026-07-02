@@ -1,0 +1,18 @@
+{
+  "projectId": "db2021b0-5a30-474e-b7cd-f7bfb3de56f2",
+  "shape": "package",
+  "pkg": "ndif-brand",
+  "globalName": "NdifBrand",
+  "srcDir": "web/src",
+  "componentSrcMap": {
+    "NdifLogo": "web/src/NdifLogo.tsx",
+    "NdifWordmark": "web/src/NdifWordmark.tsx",
+    "NnsightLogo": "web/src/NnsightLogo.tsx",
+    "WorkbenchLogo": "web/src/WorkbenchLogo.tsx"
+  },
+  "buildCmd": "node web/generate-svg-data.mjs",
+  "cssEntry": "web/tokens.css",
+  "readmeHeader": ".design-sync/conventions.md",
+  "extraFonts": ["web/fonts.css"],
+  "guidelinesGlob": ["brand/GUIDELINES.md"]
+}

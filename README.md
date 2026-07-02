@@ -14,8 +14,11 @@ design-assets/
 ├── diagrams/             → Architecture / ecosystem diagrams
 ├── social/               → Social previews, banners, talk headers
 ├── templates/            → Reusable templates (slides, posters, cards)
-└── src/                  → Editable source files (.fig, .ai, .xcf)
+├── src/                  → Editable source files (.fig, .ai, .xcf)
+└── web/                  → Web assets generated with /design-sync, for use with Claude Design
 ```
+
+See [Getting Started with Claude Design](https://support.claude.com/en/articles/14604416-get-started-with-claude-design) for more information on how to use the web assets in Claude Design. If new assets are manually added to the repo, they should be added to the web assets using `/design-sync` so that they are available in Claude Design.
 
 ## Conventions
 
