@@ -5,9 +5,12 @@
   "globalName": "NdifBrand",
   "srcDir": "web/src",
   "componentSrcMap": {
+    "InifLogo": "web/src/InifLogo.tsx",
     "NdifLogo": "web/src/NdifLogo.tsx",
     "NdifWordmark": "web/src/NdifWordmark.tsx",
+    "NnbenchLogo": "web/src/NnbenchLogo.tsx",
     "NnsightLogo": "web/src/NnsightLogo.tsx",
+    "NnterpLogo": "web/src/NnterpLogo.tsx",
     "WorkbenchLogo": "web/src/WorkbenchLogo.tsx"
   },
   "buildCmd": "node web/generate-svg-data.mjs",

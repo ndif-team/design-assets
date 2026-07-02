@@ -16,7 +16,7 @@ Design principles from the brand guidelines (also shipped in `guidelines/`): fla
 
 ## Components (all of them)
 
-Four logo components, each rendering the official SVG at a `width` you set (height follows aspect ratio): `NdifLogo` (`variant`: `'color' | 'black' | 'white' | 'white-on-gradient'`), `NdifWordmark` (`layout`: `'horizontal' | 'stacked'`; `variant`: `'color' | 'black' | 'white'`), `NnsightLogo` and `WorkbenchLogo` (`variant`: `'color' | 'black' | 'white'`). All accept `width`, `className`, `style`, `aria-label`. Use `'color'` on light backgrounds, `'white'` on slate or gradient backgrounds. No provider or wrapper is needed.
+Seven logo components, each rendering the official SVG at a `width` you set (height follows aspect ratio): `NdifLogo` (`variant`: `'color' | 'black' | 'white' | 'white-on-gradient'`), `NdifWordmark` (`layout`: `'horizontal' | 'stacked'`; `variant`: `'color' | 'black' | 'white'`), `NnbenchLogo` (`variant`: `'color' | 'gradient-needle' | 'black' | 'white'`), and `InifLogo`, `NnsightLogo`, `NnterpLogo`, `WorkbenchLogo` (`variant`: `'color' | 'black' | 'white'`). All accept `width`, `className`, `style`, `aria-label`. Use `'color'` on light backgrounds, `'white'` on slate or gradient backgrounds. No provider or wrapper is needed.
 
 ## Idiomatic example
 

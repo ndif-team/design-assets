@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="24 38 172 104">
+  <defs>
+    <linearGradient id="nnbench_grad" x1="29" y1="0" x2="191" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B875B1"/>
+      <stop offset="0.5" stop-color="#838CC1"/>
+      <stop offset="1" stop-color="#4EA3D1"/>
+    </linearGradient>
+    <mask id="nnbench_keyline" maskUnits="userSpaceOnUse" x="24" y="38" width="172" height="104">
+      <rect x="24" y="38" width="172" height="104" fill="#FFFFFF"/>
+      <path d="M110,124 L122,96 L130,109 L142,84" fill="none" stroke="#000000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M148.9,69.6 L150.1,90.1 L132.1,81.5 Z" fill="#000000" stroke="#000000" stroke-width="10" stroke-linejoin="round"/>
+      <circle cx="110" cy="124" r="11" fill="#000000"/>
+    </mask>
+  </defs>
+  <!-- Speedometer arc: fuchsia (slow) to azure (fast) -->
+  <path d="M34,124 A76,76 0 0 1 186,124" fill="none" stroke="url(#nnbench_grad)" stroke-width="10" stroke-linecap="round"/>
+  <!-- Silver tick marks; keyline gap hugs the needle where it passes -->
+  <path d="M41.05,126.69 A69,69 0 0 1 41.05,121.31 L51.05,121.70 A59,59 0 0 0 51.05,126.30 Z" fill="#C8C9D2" mask="url(#nnbench_keyline)"/>
+  <path d="M48.94,91.86 A69,69 0 0 1 51.64,87.19 L60.10,92.53 A59,59 0 0 0 57.79,96.52 Z" fill="#C8C9D2" mask="url(#nnbench_keyline)"/>
+  <path d="M73.19,65.64 A69,69 0 0 1 77.86,62.94 L82.52,71.79 A59,59 0 0 0 78.53,74.10 Z" fill="#C8C9D2" mask="url(#nnbench_keyline)"/>
+  <path d="M107.31,55.05 A69,69 0 0 1 112.69,55.05 L112.30,65.05 A59,59 0 0 0 107.70,65.05 Z" fill="#C8C9D2" mask="url(#nnbench_keyline)"/>
+  <path d="M142.14,62.94 A69,69 0 0 1 146.81,65.64 L141.47,74.10 A59,59 0 0 0 137.48,71.79 Z" fill="#C8C9D2" mask="url(#nnbench_keyline)"/>
+  <path d="M168.36,87.19 A69,69 0 0 1 171.06,91.86 L162.21,96.52 A59,59 0 0 0 159.90,92.53 Z" fill="#C8C9D2" mask="url(#nnbench_keyline)"/>
+  <path d="M178.95,121.31 A69,69 0 0 1 178.95,126.69 L168.95,126.30 A59,59 0 0 0 168.95,121.70 Z" fill="#C8C9D2" mask="url(#nnbench_keyline)"/>
+  <!-- Needle: compact NNsight N-arrow pointing upper right (fast side) -->
+  <path d="M110,124 L122,96 L130,109 L142,84" fill="none" stroke="#66686E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M148.9,69.6 L150.1,90.1 L132.1,81.5 Z" fill="#66686E" stroke="#66686E" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Pivot hub -->
+  <circle cx="110" cy="124" r="8.5" fill="#66686E"/>
+</svg>

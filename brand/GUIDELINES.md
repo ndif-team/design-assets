@@ -22,6 +22,6 @@
 
 - The gradient is always **linear, left-to-right across the whole composition**. The "active" element usually carries the gradient; everything static or structural is gray.
 - Design primitive: circles connected by lines.
-- Where a gradient element crosses a gray prop, keep a **thin white keyline gap** around the gradient stroke, to improve aesthetic rendition and emphasize important elements.
+- Where a gradient element crosses a gray prop, keep a **thin keyline gap** around the gradient element, to improve aesthetic rendition and emphasize important elements. The gap is **empty, never painted white**, and it **hugs the gradient element's contour** at a constant thin width: cut the gray prop with the dilated silhouette of the crossing element (e.g. mask a slightly larger copy of a node or stroke out of the rail), rather than simply stopping the gray prop short. The background shows through, so the mark works on any background.
 - Flat vector only, no shadows, no 3D, use white or transparent background. Main lines should be sufficiently thick to be visible at small sizes, but not so thick as to appear heavy or clunky. Use the gradient for emphasis, not decoration.
 - Wordmark lockups use the NDIF gray (`#66686E`) in the same heavy geometric sans as the NDIF logotype, with [InfraExtraBold](typography/InfraExtraBold.otf) for the logotype and [InfraBold](typography/InfraBold.otf) for wordmarks.

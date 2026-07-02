@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 26 191.46048 96.633807"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="inif-logo-color.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   width="191.46048"
+   height="96.633804"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.1050561"
+     inkscape:cx="32.022638"
+     inkscape:cy="41.60486"
+     inkscape:window-width="1392"
+     inkscape:window-height="923"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19"
+     showguides="true" />
+  <!-- Four rows of token chips, gradient sampled by x position -->
+  <rect
+     x="26.059469"
+     y="33.733318"
+     width="33.569248"
+     height="22.876415"
+     rx="4.7956071"
+     fill="#FFFFFF"
+     id="rect1"
+     style="stroke-width:1.30927" />
+  <rect
+     x="64.257431"
+     y="33.733318"
+     width="33.072697"
+     height="22.876415"
+     rx="2.8070605"
+     fill="#FFFFFF"
+     id="rect2"
+     style="stroke-width:1.71913" />
+  <rect
+     x="51.118935"
+     y="62.678013"
+     width="18.306145"
+     height="22.876415"
+     rx="3.7867262"
+     fill="#FFFFFF"
+     id="rect2-7"
+     style="stroke-width:1.27901" />
+  <rect
+     x="88.589409"
+     y="91.390846"
+     width="23.696754"
+     height="22.876415"
+     rx="4.5044236"
+     fill="#FFFFFF"
+     id="rect2-7-9"
+     style="stroke-width:1.45519" />
+  <rect
+     x="131.21536"
+     y="33.733318"
+     width="34.844105"
+     height="22.876415"
+     rx="3.8422782"
+     fill="#FFFFFF"
+     id="rect5"
+     style="stroke-width:1.24775" />
+  <rect
+     x="26.059469"
+     y="62.628521"
+     width="19.891237"
+     height="22.876415"
+     rx="4.567843"
+     fill="#FFFFFF"
+     id="rect6"
+     style="stroke-width:0.914595" />
+  <rect
+     x="119.7398"
+     y="62.628521"
+     width="46.319691"
+     height="22.876415"
+     rx="3.7242599"
+     fill="#FFFFFF"
+     id="rect9"
+     style="stroke-width:1.30313" />
+  <rect
+     x="26.059469"
+     y="92.342896"
+     width="34.031662"
+     height="22.876415"
+     rx="5.0676131"
+     fill="#FFFFFF"
+     id="rect10"
+     style="stroke-width:1.64415" />
+  <rect
+     x="117.0185"
+     y="91.523743"
+     width="26.806419"
+     height="22.876415"
+     rx="4.3370552"
+     fill="#FFFFFF"
+     id="rect13"
+     style="stroke-width:1.16997" />
+  <rect
+     x="148.73985"
+     y="91.523743"
+     width="17.319622"
+     height="22.876415"
+     rx="4.2257991"
+     fill="#FFFFFF"
+     id="rect14"
+     style="stroke-width:1.06095" />
+  <!-- JSON braces -->
+  <path
+     d="m 18.977306,29.897845 q -8.065491,0 -8.065491,7.434116 v 29.736465 q 0,7.434117 -10.08186262,7.434117 10.08186262,0 10.08186262,7.434115 v 29.736462 q 0,7.43411 8.065491,7.43411"
+     fill="none"
+     stroke="#FFFFFF"
+     stroke-width="5.89619"
+     stroke-linecap="round"
+     id="path18" />
+  <path
+     d="m 172.85448,29.89801 q 8.06549,0 8.06549,7.434089 v 29.736355 q 0,7.434089 10.08187,7.434089 -10.08187,0 -10.08187,7.434088 v 29.736359 q 0,7.43408 -8.06549,7.43408"
+     fill="none"
+     stroke="#FFFFFF"
+     stroke-width="5.91651"
+     stroke-linecap="round"
+     id="path19" />
+  <!-- Intervention: full-height gradient N-arrow through the token block -->
+  <path
+     d="M 71.928383,111.96955 86.453913,66.441403 102.01949,83.189088 113.90925,47.853115"
+     fill="none"
+     stroke="#FFFFFF"
+     stroke-width="4.86123"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path3"
+     style="stroke:#FFFFFF;stroke-width:8;stroke-dasharray:none"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="m 117.6675,35.033973 3.25575,13.352662 -13.14007,-2.969982 z"
+     fill="#FFFFFF"
+     stroke="#FFFFFF"
+     stroke-width="3.59416"
+     stroke-linejoin="round"
+     id="path4"
+     style="fill:#FFFFFF;stroke:#FFFFFF" />
+</svg>

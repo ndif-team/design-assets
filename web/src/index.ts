@@ -1,7 +1,13 @@
+export { InifLogo } from './InifLogo';
+export type { InifLogoProps } from './InifLogo';
 export { NdifLogo } from './NdifLogo';
 export type { NdifLogoProps } from './NdifLogo';
 export { NdifWordmark } from './NdifWordmark';
+export { NnbenchLogo } from './NnbenchLogo';
+export type { NnbenchLogoProps } from './NnbenchLogo';
 export type { NdifWordmarkProps } from './NdifWordmark';
+export { NnterpLogo } from './NnterpLogo';
+export type { NnterpLogoProps } from './NnterpLogo';
 export { NnsightLogo } from './NnsightLogo';
 export type { NnsightLogoProps } from './NnsightLogo';
 export { WorkbenchLogo } from './WorkbenchLogo';
