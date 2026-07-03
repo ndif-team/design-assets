@@ -4,14 +4,15 @@ The NNterp library is a unified interface for all transformer models that puts t
 
 ## Logo Concept
 
-Standardization drawn as signal convergence.
+Standardization drawn as inspection: many mismatched signals go under the glass, one clean signal comes out.
 
-- From the left edge, **three slate-gray polylines enter, each with a visibly different rhythm** — one with tight jagged zigzags, one with wide shallow bends, one stepped like a square wave. These are the heterogeneous architectures: same data, incompatible shapes. Each starts from its own small gray node at the left edge, the three lines vertically distributed (top, middle, bottom).
-- The three lines converge on a **single large junction node** at roughly the horizontal center of the canvas.
-- From the junction node, **the two Ns of "NNterp" exit to the right as gradient line-plot strokes** — each a rise–dip–rise N letterform in the NNsight style, ending in the family arrowhead: a steep upper N toward the top-right and a shallower lower N fanning ~15–20° below it, both start points fully inside the node. The gradient begins fuchsia at the junction node itself and sweeps periwinkle → azure through both arrowheads (one shared left-to-right gradient).
-- Family tie-in to Workbench (NNterp is its backend): the junction node sits on a **vertical light-gray rail**, styled exactly like one Workbench slider track, so the node reads as a knob. One rail only — a subtle quotation, not a copy. Per the brand keyline rule, the gap where the gradient elements (node and N-strokes) cross the rail is empty and hugs their contour (SVG mask, see `nnterp-logo-color.svg`).
-- Monochrome variants keep the same transparent keyline gaps as the color mark (same mask, single-color paints).
+- From the left edge, **three slate-gray lines enter with visibly different profiles** — one swooping down, one straight, one swooping up, with staggered starts and **beads of uneven size scattered at misaligned positions** along them. These are the heterogeneous architectures: same kind of data, incompatible shapes and naming.
+- Approaching the center, the lines **converge to almost-parallel horizontal runs** and pass under a large **magnifying glass** — the interpretability act itself. Each line terminates inside the lens at a gray terminal dot; the **middle terminal is larger and sits further forward** than the other two.
+- The glass is **flat** (ring, thin neck, thicker round-capped handle at the lower left — no shading, no 3D) and carries its own full left-to-right brand gradient across its extent.
+- Inside the lens, **three disconnected gradient dots** sit above, below, and in front of the big terminal — the fuchsia start of the output. The upper and lower dots launch streams that sweep right and **fuse with a third edge coming from the central dot**; the merged shaft exits the lens and ends in the family's rounded triangular arrowhead. **One uniform gradient runs from the dots (fuchsia) to the tip (azure)** — the standardized implementation emerging from analysis.
+- Brand keyline gaps everywhere elements touch: the slate lines are cut where they pass under the ring and handle (gap hugs the glass contour, via SVG mask in `nnterp-logo-color.svg`), the gradient dots are disconnected from the gray terminals, and the **ring itself is cut where the arrow exits** so the output escapes uninterrupted.
+- Monochrome variants keep the same transparent keyline gaps as the color mark (same masks, single-color paints).
 
-The mark reads left to right as the tool's promise: many messy interfaces in, one standard interface out — the "NN" initials taking over from the junction. Composition-wise it forms a sideways "Y" / funnel with strong horizontal flow, consistent with every other mark in the family.
+The mark reads left to right as the tool's promise: mismatched interfaces in, examined under the lens, one standard interface out. Strong horizontal flow, consistent with every other mark in the family.
 
-At favicon size: two input lines instead of three, junction node, one N with arrowhead; drop the rail.
+At favicon size: the lens with the dot cluster and exiting arrow; drop the input lines and handle.

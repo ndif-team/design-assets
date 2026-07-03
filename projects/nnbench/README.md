@@ -4,4 +4,6 @@ NNBench is a systems performance + coverage benchmark for interpretability workl
 
 ### Logo Concept
 
-A semicircular speedometer dial: light-gray tick marks inside the arc (with a small gap off the arc), the arc itself stroked with the gradient (fuchsia at the left/slow end, azure at the right/fast end), and the needle replaced by a **compact NNsight N-arrow in slate** (the gradient stays on the arc; the needle is an active gray prop per the brand palette) pointing to the upper right. The tick at the needle's slot is omitted — the needle occupies it. Emphasizes the "speed" component of benchmarking.
+A semicircular speedometer dial: silver tick marks inside the arc (with a small gap off the arc, their outer endings cut flat to follow the dial's curvature, including one tick at each end of the arc on the baseline), the arc itself stroked with the gradient (fuchsia at the left/slow end, azure at the right/fast end), and the needle replaced by a **compact NNsight N-arrow in slate** rising from a round pivot dot (the gradient stays on the arc; the needle is an active gray prop per the brand palette) pointing to the upper right. The tick at the needle's slot is shortened to the portion left visible beside the arrowhead. Emphasizes the "speed" component of benchmarking.
+
+An alternate variant (`nnbench-logo-alt-color.svg`) swaps the emphasis: slate-gray dial, with the needle and pivot carrying the gradient (fuchsia pivot → azure arrowhead).

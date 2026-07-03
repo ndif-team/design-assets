@@ -4,11 +4,11 @@ INIF, The INterpretability Interchange Format, is a JSON-based format for tokeni
 
 ## Logo Concept
 
-The two most recognizable objects in this domain, combined: JSON braces and a tokenizer's colored token strip.
+The two most recognizable objects in this domain, combined: JSON braces and a tokenizer's colored token strip — with interpretability rising through the data.
 
-- Center: a horizontal row of **five rounded-rectangle token chips**, tightly spaced with small gaps, filled with discrete steps of the gradient left to right (fuchsia → orchid → periwinkle → steel → azure). Anyone who has used a tokenizer playground will recognize the object instantly, and the brand gradient maps perfectly onto it — the sequence *is* the gradient. Chips are solid fills, no strokes, corner radius ≈ 25% of chip height. Slightly varied chip widths (e.g., wide, narrow, medium, narrow, wide) so it reads as real tokenization rather than a striped bar.
-- Flanking the row: **large slate curly braces `{ }`**, drawn in the family's heavy round-capped stroke, at ~1.6× the height of the token strip. They say "JSON" without a single letter.
-- Below the strip: a **slate annotation bracket** (a thin square bracket lying flat, or a rounded underline with short upturned ends) spanning chips 2–4, with one small node at its midpoint — this is the "contiguous token annotation," the format's distinctive feature, drawn as linguists and interp researchers actually draw span annotations.
-- Optional interchange cue if the mark needs more motion: two small slate chevrons (‹ ›) just outside the braces pointing outward, suggesting data flowing in and out. Recommend trying the mark without them first; the braces may be enough.
+- Center: **three rows of rounded-rectangle token chips of varied widths**, tightly spaced with small gaps, all painted by **one continuous left-to-right gradient** (fuchsia → periwinkle → azure) so the color of each chip is set by its position — the sequence *is* the gradient. Anyone who has used a tokenizer playground will recognize the object instantly; the varied widths and stacked rows read as real tokenized samples rather than a striped bar. Chips are solid fills, no strokes.
+- Flanking the block: **tall slate curly braces `{ }`**, drawn as thin round-capped strokes slightly taller than the chip stack. They say "JSON" without a single letter.
+- Through the middle: chips are omitted to leave a **staircase-shaped void across all three rows**, and inside it rises a **full-height N-shaped gradient arrow** — the family's rise–dip–rise letterform with the rounded triangular arrowhead, fuchsia at its foot and azure at the tip. It is the format's initial and the interpretability signal climbing through the tokenized data, fully enclosed by the chips but never touching them (clear gaps on all sides, per the brand keyline rule).
+- Monochrome variants keep the same gaps as the color mark (single-color paints).
 
-At favicon size: token chips only — the five-step gradient strip is self-sufficient and extremely legible small.
+At favicon size: the N-arrow with one or two flanking chips — the full three-row block is too dense to stay legible small.
